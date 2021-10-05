@@ -21,7 +21,7 @@ class Launcher{
 
 	fly()
 	{
-		this.launcher.body = null;
+		this.launcher.bodyA = null;
 		
 	}
 
